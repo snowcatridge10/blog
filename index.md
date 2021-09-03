@@ -2,4 +2,4 @@
 title: "My blog"
 ---
 
-I'm glad you are here. I plan to talk about random stuff
+I'm glad you are here. I plan to talk about stuff
