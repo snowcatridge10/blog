@@ -34,4 +34,15 @@ getElementById("possibleAnswer4")
 
 It styles the correct answer 
 
-getElementById("possibleAnswer1").style.border = "3px solid red"
+getElementById("possibleAnswer1").style.border = "3px solid green"
+
+
+# How do we stop that from happening
+
+## Option 1
+
+We switch from an API to a database
+
+## Option 2
+
+We make it so only we can access the API
